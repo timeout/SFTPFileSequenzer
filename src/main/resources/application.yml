@@ -1,0 +1,7 @@
+solace:
+  java:
+    host: "tcp://localhost:55555"
+    msgVpn: "default"
+    clientUsername: "solace-username"
+    clientPassword: "solace-password"
+
